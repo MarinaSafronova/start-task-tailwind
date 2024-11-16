@@ -1,4 +1,6 @@
 Hi!
-Install npm i
-Start npm run dev
+install
+npm i
+Start 
+npm run dev
 Thanks!
