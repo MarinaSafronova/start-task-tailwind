@@ -1,6 +1,6 @@
 Hi!
-install
+## Installation
 npm i
-Start 
+## Start
 npm run dev
 Thanks!
